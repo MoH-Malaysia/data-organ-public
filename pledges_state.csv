@@ -5007,21 +5007,22 @@ date,state,daily
 2022-09-28,Malaysia,180
 2022-09-29,Malaysia,165
 2022-09-30,Malaysia,487
-2022-10-01,Malaysia,1168
+2022-10-01,Malaysia,1152
 2022-10-02,Malaysia,835
 2022-10-03,Malaysia,1587
-2022-10-04,Malaysia,1518
-2022-10-05,Malaysia,1094
+2022-10-04,Malaysia,1506
+2022-10-05,Malaysia,1082
 2022-10-06,Malaysia,814
 2022-10-07,Malaysia,570
 2022-10-08,Malaysia,576
 2022-10-09,Malaysia,546
 2022-10-10,Malaysia,339
-2022-10-11,Malaysia,395
+2022-10-11,Malaysia,394
 2022-10-12,Malaysia,374
 2022-10-13,Malaysia,301
 2022-10-14,Malaysia,322
 2022-10-15,Malaysia,335
+2022-10-16,Malaysia,286
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -85158,7 +85159,7 @@ date,state,daily
 2022-10-01,Pahang,27
 2022-10-01,Perak,64
 2022-10-01,Perlis,9
-2022-10-01,Pulau Pinang,103
+2022-10-01,Pulau Pinang,87
 2022-10-01,Sabah,37
 2022-10-01,Sarawak,99
 2022-10-01,Selangor,357
@@ -85211,14 +85212,14 @@ date,state,daily
 2022-10-04,Sarawak,53
 2022-10-04,Selangor,503
 2022-10-04,Terengganu,20
-2022-10-04,W.P. Kuala Lumpur,210
+2022-10-04,W.P. Kuala Lumpur,198
 2022-10-04,W.P. Labuan,3
 2022-10-04,W.P. Putrajaya,14
 2022-10-05,Johor,139
 2022-10-05,Kedah,48
 2022-10-05,Kelantan,17
 2022-10-05,Melaka,37
-2022-10-05,Negeri Sembilan,71
+2022-10-05,Negeri Sembilan,59
 2022-10-05,Pahang,46
 2022-10-05,Perak,66
 2022-10-05,Perlis,3
@@ -85310,7 +85311,7 @@ date,state,daily
 2022-10-10,W.P. Kuala Lumpur,41
 2022-10-10,W.P. Labuan,1
 2022-10-10,W.P. Putrajaya,2
-2022-10-11,Johor,51
+2022-10-11,Johor,50
 2022-10-11,Kedah,19
 2022-10-11,Kelantan,6
 2022-10-11,Melaka,12
@@ -85390,3 +85391,19 @@ date,state,daily
 2022-10-15,W.P. Kuala Lumpur,40
 2022-10-15,W.P. Labuan,3
 2022-10-15,W.P. Putrajaya,0
+2022-10-16,Johor,27
+2022-10-16,Kedah,14
+2022-10-16,Kelantan,5
+2022-10-16,Melaka,13
+2022-10-16,Negeri Sembilan,13
+2022-10-16,Pahang,9
+2022-10-16,Perak,25
+2022-10-16,Perlis,0
+2022-10-16,Pulau Pinang,10
+2022-10-16,Sabah,15
+2022-10-16,Sarawak,14
+2022-10-16,Selangor,110
+2022-10-16,Terengganu,2
+2022-10-16,W.P. Kuala Lumpur,29
+2022-10-16,W.P. Labuan,0
+2022-10-16,W.P. Putrajaya,0
