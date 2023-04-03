@@ -5007,7 +5007,7 @@ date,state,daily
 2022-09-28,Malaysia,180.0
 2022-09-29,Malaysia,165.0
 2022-09-30,Malaysia,487.0
-2022-10-01,Malaysia,1152.0
+2022-10-01,Malaysia,1153.0
 2022-10-02,Malaysia,843.0
 2022-10-03,Malaysia,1588.0
 2022-10-04,Malaysia,1506.0
@@ -5188,6 +5188,9 @@ date,state,daily
 2023-03-28,Malaysia,114.0
 2023-03-29,Malaysia,77.0
 2023-03-30,Malaysia,115.0
+2023-03-31,Malaysia,86.0
+2023-04-01,Malaysia,103.0
+2023-04-02,Malaysia,217.0
 2009-01-14,Johor,0.0
 2009-01-14,Kedah,0.0
 2009-01-14,Kelantan,0.0
@@ -85316,7 +85319,7 @@ date,state,daily
 2022-09-30,W.P. Kuala Lumpur,58.0
 2022-09-30,W.P. Labuan,1.0
 2022-09-30,W.P. Putrajaya,7.0
-2022-10-01,Johor,130.0
+2022-10-01,Johor,131.0
 2022-10-01,Kedah,40.0
 2022-10-01,Kelantan,21.0
 2022-10-01,Melaka,32.0
@@ -88212,3 +88215,51 @@ date,state,daily
 2023-03-30,W.P. Kuala Lumpur,29.0
 2023-03-30,W.P. Labuan,0.0
 2023-03-30,W.P. Putrajaya,1.0
+2023-03-31,Johor,14.0
+2023-03-31,Kedah,3.0
+2023-03-31,Kelantan,1.0
+2023-03-31,Melaka,3.0
+2023-03-31,Negeri Sembilan,2.0
+2023-03-31,Pahang,0.0
+2023-03-31,Perak,7.0
+2023-03-31,Perlis,0.0
+2023-03-31,Pulau Pinang,3.0
+2023-03-31,Sabah,1.0
+2023-03-31,Sarawak,4.0
+2023-03-31,Selangor,27.0
+2023-03-31,Terengganu,2.0
+2023-03-31,W.P. Kuala Lumpur,19.0
+2023-03-31,W.P. Labuan,0.0
+2023-03-31,W.P. Putrajaya,0.0
+2023-04-01,Johor,10.0
+2023-04-01,Kedah,2.0
+2023-04-01,Kelantan,0.0
+2023-04-01,Melaka,2.0
+2023-04-01,Negeri Sembilan,5.0
+2023-04-01,Pahang,1.0
+2023-04-01,Perak,25.0
+2023-04-01,Perlis,0.0
+2023-04-01,Pulau Pinang,5.0
+2023-04-01,Sabah,1.0
+2023-04-01,Sarawak,13.0
+2023-04-01,Selangor,22.0
+2023-04-01,Terengganu,2.0
+2023-04-01,W.P. Kuala Lumpur,15.0
+2023-04-01,W.P. Labuan,0.0
+2023-04-01,W.P. Putrajaya,0.0
+2023-04-02,Johor,30.0
+2023-04-02,Kedah,6.0
+2023-04-02,Kelantan,1.0
+2023-04-02,Melaka,5.0
+2023-04-02,Negeri Sembilan,12.0
+2023-04-02,Pahang,6.0
+2023-04-02,Perak,10.0
+2023-04-02,Perlis,0.0
+2023-04-02,Pulau Pinang,19.0
+2023-04-02,Sabah,4.0
+2023-04-02,Sarawak,12.0
+2023-04-02,Selangor,68.0
+2023-04-02,Terengganu,1.0
+2023-04-02,W.P. Kuala Lumpur,42.0
+2023-04-02,W.P. Labuan,0.0
+2023-04-02,W.P. Putrajaya,1.0
