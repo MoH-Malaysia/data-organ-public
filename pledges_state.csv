@@ -5191,6 +5191,7 @@ date,state,daily
 2023-03-31,Malaysia,86.0
 2023-04-01,Malaysia,103.0
 2023-04-02,Malaysia,217.0
+2023-04-03,Malaysia,150.0
 2009-01-14,Johor,0.0
 2009-01-14,Kedah,0.0
 2009-01-14,Kelantan,0.0
@@ -88263,3 +88264,19 @@ date,state,daily
 2023-04-02,W.P. Kuala Lumpur,42.0
 2023-04-02,W.P. Labuan,0.0
 2023-04-02,W.P. Putrajaya,1.0
+2023-04-03,Johor,25.0
+2023-04-03,Kedah,3.0
+2023-04-03,Kelantan,10.0
+2023-04-03,Melaka,3.0
+2023-04-03,Negeri Sembilan,15.0
+2023-04-03,Pahang,5.0
+2023-04-03,Perak,14.0
+2023-04-03,Perlis,1.0
+2023-04-03,Pulau Pinang,8.0
+2023-04-03,Sabah,3.0
+2023-04-03,Sarawak,1.0
+2023-04-03,Selangor,42.0
+2023-04-03,Terengganu,0.0
+2023-04-03,W.P. Kuala Lumpur,18.0
+2023-04-03,W.P. Labuan,1.0
+2023-04-03,W.P. Putrajaya,1.0
