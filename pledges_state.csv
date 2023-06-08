@@ -5250,12 +5250,13 @@ date,state,daily
 2023-05-29,Malaysia,70.0
 2023-05-30,Malaysia,82.0
 2023-05-31,Malaysia,74.0
-2023-06-01,Malaysia,69.0
+2023-06-01,Malaysia,68.0
 2023-06-02,Malaysia,66.0
 2023-06-03,Malaysia,50.0
 2023-06-04,Malaysia,57.0
 2023-06-05,Malaysia,72.0
 2023-06-06,Malaysia,66.0
+2023-06-07,Malaysia,88.0
 2009-01-14,Johor,0.0
 2009-01-14,Kedah,0.0
 2009-01-14,Kelantan,0.0
@@ -89282,7 +89283,7 @@ date,state,daily
 2023-06-01,Perlis,0.0
 2023-06-01,Pulau Pinang,5.0
 2023-06-01,Sabah,1.0
-2023-06-01,Sarawak,2.0
+2023-06-01,Sarawak,1.0
 2023-06-01,Selangor,21.0
 2023-06-01,Terengganu,1.0
 2023-06-01,W.P. Kuala Lumpur,11.0
@@ -89368,3 +89369,19 @@ date,state,daily
 2023-06-06,W.P. Kuala Lumpur,10.0
 2023-06-06,W.P. Labuan,0.0
 2023-06-06,W.P. Putrajaya,0.0
+2023-06-07,Johor,15.0
+2023-06-07,Kedah,2.0
+2023-06-07,Kelantan,2.0
+2023-06-07,Melaka,1.0
+2023-06-07,Negeri Sembilan,5.0
+2023-06-07,Pahang,3.0
+2023-06-07,Perak,6.0
+2023-06-07,Perlis,0.0
+2023-06-07,Pulau Pinang,6.0
+2023-06-07,Sabah,6.0
+2023-06-07,Sarawak,6.0
+2023-06-07,Selangor,21.0
+2023-06-07,Terengganu,2.0
+2023-06-07,W.P. Kuala Lumpur,13.0
+2023-06-07,W.P. Labuan,0.0
+2023-06-07,W.P. Putrajaya,0.0
