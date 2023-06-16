@@ -5045,7 +5045,7 @@ date,state,daily
 2022-11-05,Malaysia,224.0
 2022-11-06,Malaysia,239.0
 2022-11-07,Malaysia,233.0
-2022-11-08,Malaysia,223.0
+2022-11-08,Malaysia,222.0
 2022-11-09,Malaysia,197.0
 2022-11-10,Malaysia,224.0
 2022-11-11,Malaysia,178.0
@@ -5264,6 +5264,7 @@ date,state,daily
 2023-06-12,Malaysia,118.0
 2023-06-13,Malaysia,146.0
 2023-06-14,Malaysia,86.0
+2023-06-15,Malaysia,66.0
 2009-01-14,Johor,0.0
 2009-01-14,Kedah,0.0
 2009-01-14,Kelantan,0.0
@@ -86006,7 +86007,7 @@ date,state,daily
 2022-11-08,Melaka,5.0
 2022-11-08,Negeri Sembilan,12.0
 2022-11-08,Pahang,5.0
-2022-11-08,Perak,17.0
+2022-11-08,Perak,16.0
 2022-11-08,Perlis,1.0
 2022-11-08,Pulau Pinang,11.0
 2022-11-08,Sabah,17.0
@@ -89504,3 +89505,19 @@ date,state,daily
 2023-06-14,W.P. Kuala Lumpur,9.0
 2023-06-14,W.P. Labuan,1.0
 2023-06-14,W.P. Putrajaya,1.0
+2023-06-15,Johor,15.0
+2023-06-15,Kedah,3.0
+2023-06-15,Kelantan,1.0
+2023-06-15,Melaka,3.0
+2023-06-15,Negeri Sembilan,3.0
+2023-06-15,Pahang,1.0
+2023-06-15,Perak,3.0
+2023-06-15,Perlis,0.0
+2023-06-15,Pulau Pinang,5.0
+2023-06-15,Sabah,4.0
+2023-06-15,Sarawak,2.0
+2023-06-15,Selangor,13.0
+2023-06-15,Terengganu,1.0
+2023-06-15,W.P. Kuala Lumpur,11.0
+2023-06-15,W.P. Labuan,1.0
+2023-06-15,W.P. Putrajaya,0.0
