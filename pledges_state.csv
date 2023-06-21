@@ -5020,7 +5020,7 @@ date,state,daily
 2022-10-11,Malaysia,353.0
 2022-10-12,Malaysia,326.0
 2022-10-13,Malaysia,260.0
-2022-10-14,Malaysia,259.0
+2022-10-14,Malaysia,258.0
 2022-10-15,Malaysia,268.0
 2022-10-16,Malaysia,242.0
 2022-10-17,Malaysia,202.0
@@ -5125,7 +5125,7 @@ date,state,daily
 2023-01-24,Malaysia,67.0
 2023-01-25,Malaysia,76.0
 2023-01-26,Malaysia,87.0
-2023-01-27,Malaysia,84.0
+2023-01-27,Malaysia,83.0
 2023-01-28,Malaysia,64.0
 2023-01-29,Malaysia,94.0
 2023-01-30,Malaysia,61.0
@@ -5268,7 +5268,8 @@ date,state,daily
 2023-06-16,Malaysia,71.0
 2023-06-17,Malaysia,70.0
 2023-06-18,Malaysia,93.0
-2023-06-19,Malaysia,105.0
+2023-06-19,Malaysia,104.0
+2023-06-20,Malaysia,75.0
 2009-01-14,Johor,0.0
 2009-01-14,Kedah,0.0
 2009-01-14,Kelantan,0.0
@@ -85618,7 +85619,7 @@ date,state,daily
 2022-10-14,Sarawak,12.0
 2022-10-14,Selangor,83.0
 2022-10-14,Terengganu,6.0
-2022-10-14,W.P. Kuala Lumpur,33.0
+2022-10-14,W.P. Kuala Lumpur,32.0
 2022-10-14,W.P. Labuan,1.0
 2022-10-14,W.P. Putrajaya,4.0
 2022-10-15,Johor,27.0
@@ -87286,7 +87287,7 @@ date,state,daily
 2023-01-26,W.P. Labuan,0.0
 2023-01-26,W.P. Putrajaya,0.0
 2023-01-27,Johor,3.0
-2023-01-27,Kedah,5.0
+2023-01-27,Kedah,4.0
 2023-01-27,Kelantan,2.0
 2023-01-27,Melaka,4.0
 2023-01-27,Negeri Sembilan,5.0
@@ -89574,7 +89575,7 @@ date,state,daily
 2023-06-18,W.P. Labuan,0.0
 2023-06-18,W.P. Putrajaya,0.0
 2023-06-19,Johor,9.0
-2023-06-19,Kedah,10.0
+2023-06-19,Kedah,9.0
 2023-06-19,Kelantan,22.0
 2023-06-19,Melaka,5.0
 2023-06-19,Negeri Sembilan,3.0
@@ -89589,3 +89590,19 @@ date,state,daily
 2023-06-19,W.P. Kuala Lumpur,5.0
 2023-06-19,W.P. Labuan,0.0
 2023-06-19,W.P. Putrajaya,0.0
+2023-06-20,Johor,11.0
+2023-06-20,Kedah,3.0
+2023-06-20,Kelantan,0.0
+2023-06-20,Melaka,4.0
+2023-06-20,Negeri Sembilan,1.0
+2023-06-20,Pahang,2.0
+2023-06-20,Perak,3.0
+2023-06-20,Perlis,0.0
+2023-06-20,Pulau Pinang,4.0
+2023-06-20,Sabah,5.0
+2023-06-20,Sarawak,7.0
+2023-06-20,Selangor,28.0
+2023-06-20,Terengganu,0.0
+2023-06-20,W.P. Kuala Lumpur,7.0
+2023-06-20,W.P. Labuan,0.0
+2023-06-20,W.P. Putrajaya,0.0
