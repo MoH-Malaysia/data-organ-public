@@ -5012,7 +5012,7 @@ date,state,daily
 2022-10-03,Malaysia,1417.0
 2022-10-04,Malaysia,1301.0
 2022-10-05,Malaysia,950.0
-2022-10-06,Malaysia,711.0
+2022-10-06,Malaysia,710.0
 2022-10-07,Malaysia,501.0
 2022-10-08,Malaysia,514.0
 2022-10-09,Malaysia,459.0
@@ -5027,7 +5027,7 @@ date,state,daily
 2022-10-18,Malaysia,249.0
 2022-10-19,Malaysia,272.0
 2022-10-20,Malaysia,201.0
-2022-10-21,Malaysia,181.0
+2022-10-21,Malaysia,180.0
 2022-10-22,Malaysia,161.0
 2022-10-23,Malaysia,143.0
 2022-10-24,Malaysia,172.0
@@ -5241,7 +5241,7 @@ date,state,daily
 2023-05-20,Malaysia,80.0
 2023-05-21,Malaysia,123.0
 2023-05-22,Malaysia,79.0
-2023-05-23,Malaysia,97.0
+2023-05-23,Malaysia,96.0
 2023-05-24,Malaysia,72.0
 2023-05-25,Malaysia,73.0
 2023-05-26,Malaysia,48.0
@@ -5268,7 +5268,7 @@ date,state,daily
 2023-06-16,Malaysia,71.0
 2023-06-17,Malaysia,70.0
 2023-06-18,Malaysia,93.0
-2023-06-19,Malaysia,104.0
+2023-06-19,Malaysia,103.0
 2023-06-20,Malaysia,75.0
 2023-06-21,Malaysia,86.0
 2023-06-22,Malaysia,101.0
@@ -5292,7 +5292,10 @@ date,state,daily
 2023-07-10,Malaysia,57.0
 2023-07-11,Malaysia,77.0
 2023-07-12,Malaysia,67.0
-2023-07-13,Malaysia,57.0
+2023-07-13,Malaysia,56.0
+2023-07-14,Malaysia,49.0
+2023-07-15,Malaysia,57.0
+2023-07-16,Malaysia,58.0
 2009-01-14,Johor,0.0
 2009-01-14,Kedah,0.0
 2009-01-14,Kelantan,0.0
@@ -85502,7 +85505,7 @@ date,state,daily
 2022-10-05,W.P. Labuan,1.0
 2022-10-05,W.P. Putrajaya,4.0
 2022-10-06,Johor,91.0
-2022-10-06,Kedah,32.0
+2022-10-06,Kedah,31.0
 2022-10-06,Kelantan,18.0
 2022-10-06,Melaka,17.0
 2022-10-06,Negeri Sembilan,21.0
@@ -85749,7 +85752,7 @@ date,state,daily
 2022-10-21,Pahang,2.0
 2022-10-21,Perak,13.0
 2022-10-21,Perlis,1.0
-2022-10-21,Pulau Pinang,16.0
+2022-10-21,Pulau Pinang,15.0
 2022-10-21,Sabah,5.0
 2022-10-21,Sarawak,9.0
 2022-10-21,Selangor,67.0
@@ -89174,7 +89177,7 @@ date,state,daily
 2023-05-23,Perak,6.0
 2023-05-23,Perlis,0.0
 2023-05-23,Pulau Pinang,6.0
-2023-05-23,Sabah,7.0
+2023-05-23,Sabah,6.0
 2023-05-23,Sarawak,2.0
 2023-05-23,Selangor,23.0
 2023-05-23,Terengganu,2.0
@@ -89599,7 +89602,7 @@ date,state,daily
 2023-06-18,W.P. Putrajaya,0.0
 2023-06-19,Johor,9.0
 2023-06-19,Kedah,9.0
-2023-06-19,Kelantan,22.0
+2023-06-19,Kelantan,21.0
 2023-06-19,Melaka,5.0
 2023-06-19,Negeri Sembilan,3.0
 2023-06-19,Pahang,6.0
@@ -89984,7 +89987,7 @@ date,state,daily
 2023-07-13,Johor,2.0
 2023-07-13,Kedah,3.0
 2023-07-13,Kelantan,1.0
-2023-07-13,Melaka,5.0
+2023-07-13,Melaka,4.0
 2023-07-13,Negeri Sembilan,2.0
 2023-07-13,Pahang,0.0
 2023-07-13,Perak,7.0
@@ -89997,3 +90000,51 @@ date,state,daily
 2023-07-13,W.P. Kuala Lumpur,6.0
 2023-07-13,W.P. Labuan,0.0
 2023-07-13,W.P. Putrajaya,0.0
+2023-07-14,Johor,4.0
+2023-07-14,Kedah,3.0
+2023-07-14,Kelantan,4.0
+2023-07-14,Melaka,0.0
+2023-07-14,Negeri Sembilan,0.0
+2023-07-14,Pahang,1.0
+2023-07-14,Perak,5.0
+2023-07-14,Perlis,0.0
+2023-07-14,Pulau Pinang,5.0
+2023-07-14,Sabah,1.0
+2023-07-14,Sarawak,1.0
+2023-07-14,Selangor,17.0
+2023-07-14,Terengganu,3.0
+2023-07-14,W.P. Kuala Lumpur,5.0
+2023-07-14,W.P. Labuan,0.0
+2023-07-14,W.P. Putrajaya,0.0
+2023-07-15,Johor,3.0
+2023-07-15,Kedah,2.0
+2023-07-15,Kelantan,4.0
+2023-07-15,Melaka,4.0
+2023-07-15,Negeri Sembilan,3.0
+2023-07-15,Pahang,15.0
+2023-07-15,Perak,2.0
+2023-07-15,Perlis,3.0
+2023-07-15,Pulau Pinang,2.0
+2023-07-15,Sabah,1.0
+2023-07-15,Sarawak,3.0
+2023-07-15,Selangor,9.0
+2023-07-15,Terengganu,0.0
+2023-07-15,W.P. Kuala Lumpur,6.0
+2023-07-15,W.P. Labuan,0.0
+2023-07-15,W.P. Putrajaya,0.0
+2023-07-16,Johor,5.0
+2023-07-16,Kedah,10.0
+2023-07-16,Kelantan,2.0
+2023-07-16,Melaka,3.0
+2023-07-16,Negeri Sembilan,0.0
+2023-07-16,Pahang,2.0
+2023-07-16,Perak,3.0
+2023-07-16,Perlis,0.0
+2023-07-16,Pulau Pinang,7.0
+2023-07-16,Sabah,7.0
+2023-07-16,Sarawak,2.0
+2023-07-16,Selangor,13.0
+2023-07-16,Terengganu,0.0
+2023-07-16,W.P. Kuala Lumpur,4.0
+2023-07-16,W.P. Labuan,0.0
+2023-07-16,W.P. Putrajaya,0.0
