@@ -4993,7 +4993,7 @@ date,state,daily
 2022-09-14,Malaysia,984.0
 2022-09-15,Malaysia,732.0
 2022-09-16,Malaysia,441.0
-2022-09-17,Malaysia,407.0
+2022-09-17,Malaysia,406.0
 2022-09-18,Malaysia,355.0
 2022-09-19,Malaysia,237.0
 2022-09-20,Malaysia,234.0
@@ -5008,7 +5008,7 @@ date,state,daily
 2022-09-29,Malaysia,164.0
 2022-09-30,Malaysia,414.0
 2022-10-01,Malaysia,1042.0
-2022-10-02,Malaysia,717.0
+2022-10-02,Malaysia,716.0
 2022-10-03,Malaysia,1417.0
 2022-10-04,Malaysia,1301.0
 2022-10-05,Malaysia,950.0
@@ -5018,7 +5018,7 @@ date,state,daily
 2022-10-09,Malaysia,459.0
 2022-10-10,Malaysia,305.0
 2022-10-11,Malaysia,353.0
-2022-10-12,Malaysia,326.0
+2022-10-12,Malaysia,325.0
 2022-10-13,Malaysia,260.0
 2022-10-14,Malaysia,258.0
 2022-10-15,Malaysia,268.0
@@ -5077,7 +5077,7 @@ date,state,daily
 2022-12-07,Malaysia,123.0
 2022-12-08,Malaysia,134.0
 2022-12-09,Malaysia,97.0
-2022-12-10,Malaysia,105.0
+2022-12-10,Malaysia,104.0
 2022-12-11,Malaysia,114.0
 2022-12-12,Malaysia,120.0
 2022-12-13,Malaysia,159.0
@@ -5307,6 +5307,10 @@ date,state,daily
 2023-07-25,Malaysia,47.0
 2023-07-26,Malaysia,50.0
 2023-07-27,Malaysia,44.0
+2023-07-28,Malaysia,35.0
+2023-07-29,Malaysia,36.0
+2023-07-30,Malaysia,90.0
+2023-07-31,Malaysia,65.0
 2009-01-14,Johor,0.0
 2009-01-14,Kedah,0.0
 2009-01-14,Kelantan,0.0
@@ -85223,7 +85227,7 @@ date,state,daily
 2022-09-17,Sabah,11.0
 2022-09-17,Sarawak,13.0
 2022-09-17,Selangor,144.0
-2022-09-17,Terengganu,7.0
+2022-09-17,Terengganu,6.0
 2022-09-17,W.P. Kuala Lumpur,62.0
 2022-09-17,W.P. Labuan,0.0
 2022-09-17,W.P. Putrajaya,1.0
@@ -85451,7 +85455,7 @@ date,state,daily
 2022-10-01,W.P. Kuala Lumpur,139.0
 2022-10-01,W.P. Labuan,3.0
 2022-10-01,W.P. Putrajaya,9.0
-2022-10-02,Johor,74.0
+2022-10-02,Johor,73.0
 2022-10-02,Kedah,33.0
 2022-10-02,Kelantan,15.0
 2022-10-02,Melaka,18.0
@@ -85612,7 +85616,7 @@ date,state,daily
 2022-10-11,W.P. Labuan,2.0
 2022-10-11,W.P. Putrajaya,0.0
 2022-10-12,Johor,32.0
-2022-10-12,Kedah,13.0
+2022-10-12,Kedah,12.0
 2022-10-12,Kelantan,3.0
 2022-10-12,Melaka,11.0
 2022-10-12,Negeri Sembilan,15.0
@@ -86568,7 +86572,7 @@ date,state,daily
 2022-12-10,Sarawak,3.0
 2022-12-10,Selangor,36.0
 2022-12-10,Terengganu,1.0
-2022-12-10,W.P. Kuala Lumpur,14.0
+2022-12-10,W.P. Kuala Lumpur,13.0
 2022-12-10,W.P. Labuan,0.0
 2022-12-10,W.P. Putrajaya,0.0
 2022-12-11,Johor,17.0
@@ -90235,3 +90239,67 @@ date,state,daily
 2023-07-27,W.P. Kuala Lumpur,4.0
 2023-07-27,W.P. Labuan,2.0
 2023-07-27,W.P. Putrajaya,0.0
+2023-07-28,Johor,2.0
+2023-07-28,Kedah,5.0
+2023-07-28,Kelantan,0.0
+2023-07-28,Melaka,0.0
+2023-07-28,Negeri Sembilan,0.0
+2023-07-28,Pahang,1.0
+2023-07-28,Perak,4.0
+2023-07-28,Perlis,0.0
+2023-07-28,Pulau Pinang,5.0
+2023-07-28,Sabah,3.0
+2023-07-28,Sarawak,1.0
+2023-07-28,Selangor,9.0
+2023-07-28,Terengganu,2.0
+2023-07-28,W.P. Kuala Lumpur,3.0
+2023-07-28,W.P. Labuan,0.0
+2023-07-28,W.P. Putrajaya,0.0
+2023-07-29,Johor,3.0
+2023-07-29,Kedah,2.0
+2023-07-29,Kelantan,0.0
+2023-07-29,Melaka,7.0
+2023-07-29,Negeri Sembilan,0.0
+2023-07-29,Pahang,2.0
+2023-07-29,Perak,2.0
+2023-07-29,Perlis,0.0
+2023-07-29,Pulau Pinang,5.0
+2023-07-29,Sabah,1.0
+2023-07-29,Sarawak,4.0
+2023-07-29,Selangor,5.0
+2023-07-29,Terengganu,1.0
+2023-07-29,W.P. Kuala Lumpur,3.0
+2023-07-29,W.P. Labuan,0.0
+2023-07-29,W.P. Putrajaya,1.0
+2023-07-30,Johor,7.0
+2023-07-30,Kedah,2.0
+2023-07-30,Kelantan,1.0
+2023-07-30,Melaka,3.0
+2023-07-30,Negeri Sembilan,3.0
+2023-07-30,Pahang,7.0
+2023-07-30,Perak,7.0
+2023-07-30,Perlis,0.0
+2023-07-30,Pulau Pinang,5.0
+2023-07-30,Sabah,2.0
+2023-07-30,Sarawak,4.0
+2023-07-30,Selangor,20.0
+2023-07-30,Terengganu,20.0
+2023-07-30,W.P. Kuala Lumpur,7.0
+2023-07-30,W.P. Labuan,0.0
+2023-07-30,W.P. Putrajaya,2.0
+2023-07-31,Johor,10.0
+2023-07-31,Kedah,3.0
+2023-07-31,Kelantan,1.0
+2023-07-31,Melaka,3.0
+2023-07-31,Negeri Sembilan,2.0
+2023-07-31,Pahang,2.0
+2023-07-31,Perak,4.0
+2023-07-31,Perlis,1.0
+2023-07-31,Pulau Pinang,4.0
+2023-07-31,Sabah,1.0
+2023-07-31,Sarawak,3.0
+2023-07-31,Selangor,22.0
+2023-07-31,Terengganu,1.0
+2023-07-31,W.P. Kuala Lumpur,6.0
+2023-07-31,W.P. Labuan,1.0
+2023-07-31,W.P. Putrajaya,1.0
