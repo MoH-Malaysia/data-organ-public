@@ -5098,7 +5098,7 @@ date,state,daily
 2022-12-28,Malaysia,211
 2022-12-29,Malaysia,238
 2022-12-30,Malaysia,193
-2022-12-31,Malaysia,124
+2022-12-31,Malaysia,125
 2023-01-01,Malaysia,138
 2023-01-02,Malaysia,229
 2023-01-03,Malaysia,223
@@ -5123,7 +5123,7 @@ date,state,daily
 2023-01-22,Malaysia,55
 2023-01-23,Malaysia,40
 2023-01-24,Malaysia,67
-2023-01-25,Malaysia,76
+2023-01-25,Malaysia,75
 2023-01-26,Malaysia,87
 2023-01-27,Malaysia,83
 2023-01-28,Malaysia,64
@@ -5398,6 +5398,8 @@ date,state,daily
 2023-10-24,Malaysia,42
 2023-10-25,Malaysia,39
 2023-10-26,Malaysia,44
+2023-10-27,Malaysia,37
+2023-10-28,Malaysia,51
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -86992,7 +86994,7 @@ date,state,daily
 2022-12-31,Perlis,1
 2022-12-31,Pulau Pinang,8
 2022-12-31,Sabah,5
-2022-12-31,Sarawak,7
+2022-12-31,Sarawak,8
 2022-12-31,Selangor,47
 2022-12-31,Terengganu,3
 2022-12-31,W.P. Kuala Lumpur,13
@@ -87396,7 +87398,7 @@ date,state,daily
 2023-01-25,Selangor,18
 2023-01-25,Terengganu,5
 2023-01-25,W.P. Kuala Lumpur,9
-2023-01-25,W.P. Labuan,1
+2023-01-25,W.P. Labuan,0
 2023-01-25,W.P. Putrajaya,0
 2023-01-26,Johor,7
 2023-01-26,Kedah,1
@@ -91782,3 +91784,35 @@ date,state,daily
 2023-10-26,W.P. Kuala Lumpur,5
 2023-10-26,W.P. Labuan,0
 2023-10-26,W.P. Putrajaya,0
+2023-10-27,Johor,3
+2023-10-27,Kedah,5
+2023-10-27,Kelantan,1
+2023-10-27,Melaka,1
+2023-10-27,Negeri Sembilan,2
+2023-10-27,Pahang,0
+2023-10-27,Perak,6
+2023-10-27,Perlis,1
+2023-10-27,Pulau Pinang,5
+2023-10-27,Sabah,0
+2023-10-27,Sarawak,1
+2023-10-27,Selangor,5
+2023-10-27,Terengganu,1
+2023-10-27,W.P. Kuala Lumpur,6
+2023-10-27,W.P. Labuan,0
+2023-10-27,W.P. Putrajaya,0
+2023-10-28,Johor,8
+2023-10-28,Kedah,0
+2023-10-28,Kelantan,2
+2023-10-28,Melaka,2
+2023-10-28,Negeri Sembilan,1
+2023-10-28,Pahang,2
+2023-10-28,Perak,2
+2023-10-28,Perlis,0
+2023-10-28,Pulau Pinang,2
+2023-10-28,Sabah,7
+2023-10-28,Sarawak,3
+2023-10-28,Selangor,12
+2023-10-28,Terengganu,1
+2023-10-28,W.P. Kuala Lumpur,4
+2023-10-28,W.P. Labuan,5
+2023-10-28,W.P. Putrajaya,0
