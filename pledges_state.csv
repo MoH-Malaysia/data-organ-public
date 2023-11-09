@@ -4983,7 +4983,7 @@ date,state,daily
 2022-09-04,Malaysia,165
 2022-09-05,Malaysia,9
 2022-09-06,Malaysia,177
-2022-09-07,Malaysia,1247
+2022-09-07,Malaysia,1246
 2022-09-08,Malaysia,923
 2022-09-09,Malaysia,488
 2022-09-10,Malaysia,830
@@ -4998,7 +4998,7 @@ date,state,daily
 2022-09-19,Malaysia,237
 2022-09-20,Malaysia,234
 2022-09-21,Malaysia,219
-2022-09-22,Malaysia,255
+2022-09-22,Malaysia,254
 2022-09-23,Malaysia,244
 2022-09-24,Malaysia,242
 2022-09-25,Malaysia,247
@@ -5352,7 +5352,7 @@ date,state,daily
 2023-09-08,Malaysia,118
 2023-09-09,Malaysia,77
 2023-09-10,Malaysia,72
-2023-09-11,Malaysia,83
+2023-09-11,Malaysia,82
 2023-09-12,Malaysia,144
 2023-09-13,Malaysia,111
 2023-09-14,Malaysia,68
@@ -5410,6 +5410,7 @@ date,state,daily
 2023-11-05,Malaysia,40
 2023-11-06,Malaysia,36
 2023-11-07,Malaysia,55
+2023-11-08,Malaysia,50
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -85160,7 +85161,7 @@ date,state,daily
 2022-09-07,Melaka,27
 2022-09-07,Negeri Sembilan,43
 2022-09-07,Pahang,17
-2022-09-07,Perak,66
+2022-09-07,Perak,65
 2022-09-07,Perlis,317
 2022-09-07,Pulau Pinang,62
 2022-09-07,Sabah,21
@@ -85400,7 +85401,7 @@ date,state,daily
 2022-09-22,Melaka,6
 2022-09-22,Negeri Sembilan,10
 2022-09-22,Pahang,6
-2022-09-22,Perak,15
+2022-09-22,Perak,14
 2022-09-22,Perlis,2
 2022-09-22,Pulau Pinang,15
 2022-09-22,Sabah,11
@@ -91064,7 +91065,7 @@ date,state,daily
 2023-09-11,Melaka,4
 2023-09-11,Negeri Sembilan,4
 2023-09-11,Pahang,1
-2023-09-11,Perak,4
+2023-09-11,Perak,3
 2023-09-11,Perlis,0
 2023-09-11,Pulau Pinang,2
 2023-09-11,Sabah,5
@@ -91986,3 +91987,19 @@ date,state,daily
 2023-11-07,W.P. Kuala Lumpur,6
 2023-11-07,W.P. Labuan,0
 2023-11-07,W.P. Putrajaya,0
+2023-11-08,Johor,6
+2023-11-08,Kedah,3
+2023-11-08,Kelantan,1
+2023-11-08,Melaka,2
+2023-11-08,Negeri Sembilan,2
+2023-11-08,Pahang,2
+2023-11-08,Perak,3
+2023-11-08,Perlis,0
+2023-11-08,Pulau Pinang,4
+2023-11-08,Sabah,4
+2023-11-08,Sarawak,2
+2023-11-08,Selangor,16
+2023-11-08,Terengganu,1
+2023-11-08,W.P. Kuala Lumpur,4
+2023-11-08,W.P. Labuan,0
+2023-11-08,W.P. Putrajaya,0
