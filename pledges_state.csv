@@ -5023,7 +5023,7 @@ date,state,daily
 2022-10-14,Malaysia,257
 2022-10-15,Malaysia,268
 2022-10-16,Malaysia,241
-2022-10-17,Malaysia,201
+2022-10-17,Malaysia,200
 2022-10-18,Malaysia,248
 2022-10-19,Malaysia,272
 2022-10-20,Malaysia,200
@@ -5218,7 +5218,7 @@ date,state,daily
 2023-04-27,Malaysia,133
 2023-04-28,Malaysia,99
 2023-04-29,Malaysia,80
-2023-04-30,Malaysia,80
+2023-04-30,Malaysia,79
 2023-05-01,Malaysia,77
 2023-05-02,Malaysia,80
 2023-05-03,Malaysia,86
@@ -5262,7 +5262,7 @@ date,state,daily
 2023-06-10,Malaysia,101
 2023-06-11,Malaysia,58
 2023-06-12,Malaysia,116
-2023-06-13,Malaysia,141
+2023-06-13,Malaysia,140
 2023-06-14,Malaysia,86
 2023-06-15,Malaysia,63
 2023-06-16,Malaysia,71
@@ -5418,6 +5418,7 @@ date,state,daily
 2023-11-13,Malaysia,41
 2023-11-14,Malaysia,45
 2023-11-15,Malaysia,56
+2023-11-16,Malaysia,62
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -85802,7 +85803,7 @@ date,state,daily
 2022-10-16,W.P. Kuala Lumpur,28
 2022-10-16,W.P. Labuan,0
 2022-10-16,W.P. Putrajaya,0
-2022-10-17,Johor,29
+2022-10-17,Johor,28
 2022-10-17,Kedah,13
 2022-10-17,Kelantan,5
 2022-10-17,Melaka,7
@@ -88935,7 +88936,7 @@ date,state,daily
 2023-04-30,Sarawak,6
 2023-04-30,Selangor,32
 2023-04-30,Terengganu,0
-2023-04-30,W.P. Kuala Lumpur,11
+2023-04-30,W.P. Kuala Lumpur,10
 2023-04-30,W.P. Labuan,0
 2023-04-30,W.P. Putrajaya,0
 2023-05-01,Johor,16
@@ -89628,7 +89629,7 @@ date,state,daily
 2023-06-12,W.P. Putrajaya,0
 2023-06-13,Johor,13
 2023-06-13,Kedah,12
-2023-06-13,Kelantan,5
+2023-06-13,Kelantan,4
 2023-06-13,Melaka,10
 2023-06-13,Negeri Sembilan,14
 2023-06-13,Pahang,5
@@ -92122,3 +92123,19 @@ date,state,daily
 2023-11-15,W.P. Kuala Lumpur,9
 2023-11-15,W.P. Labuan,0
 2023-11-15,W.P. Putrajaya,0
+2023-11-16,Johor,7
+2023-11-16,Kedah,3
+2023-11-16,Kelantan,2
+2023-11-16,Melaka,2
+2023-11-16,Negeri Sembilan,2
+2023-11-16,Pahang,2
+2023-11-16,Perak,2
+2023-11-16,Perlis,0
+2023-11-16,Pulau Pinang,3
+2023-11-16,Sabah,8
+2023-11-16,Sarawak,2
+2023-11-16,Selangor,21
+2023-11-16,Terengganu,0
+2023-11-16,W.P. Kuala Lumpur,8
+2023-11-16,W.P. Labuan,0
+2023-11-16,W.P. Putrajaya,0
