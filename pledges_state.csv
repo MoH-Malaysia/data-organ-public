@@ -5201,7 +5201,7 @@ date,state,daily
 2023-04-10,Malaysia,67
 2023-04-11,Malaysia,52
 2023-04-12,Malaysia,59
-2023-04-13,Malaysia,362
+2023-04-13,Malaysia,361
 2023-04-14,Malaysia,292
 2023-04-15,Malaysia,260
 2023-04-16,Malaysia,131
@@ -5429,6 +5429,7 @@ date,state,daily
 2023-11-24,Malaysia,34
 2023-11-25,Malaysia,37
 2023-11-26,Malaysia,36
+2023-11-27,Malaysia,40
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -88667,7 +88668,7 @@ date,state,daily
 2023-04-13,Melaka,7
 2023-04-13,Negeri Sembilan,19
 2023-04-13,Pahang,9
-2023-04-13,Perak,35
+2023-04-13,Perak,34
 2023-04-13,Perlis,0
 2023-04-13,Pulau Pinang,26
 2023-04-13,Sabah,9
@@ -92309,3 +92310,19 @@ date,state,daily
 2023-11-26,W.P. Kuala Lumpur,4
 2023-11-26,W.P. Labuan,1
 2023-11-26,W.P. Putrajaya,0
+2023-11-27,Johor,5
+2023-11-27,Kedah,2
+2023-11-27,Kelantan,1
+2023-11-27,Melaka,3
+2023-11-27,Negeri Sembilan,4
+2023-11-27,Pahang,1
+2023-11-27,Perak,4
+2023-11-27,Perlis,0
+2023-11-27,Pulau Pinang,2
+2023-11-27,Sabah,1
+2023-11-27,Sarawak,3
+2023-11-27,Selangor,11
+2023-11-27,Terengganu,1
+2023-11-27,W.P. Kuala Lumpur,2
+2023-11-27,W.P. Labuan,0
+2023-11-27,W.P. Putrajaya,0
