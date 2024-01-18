@@ -5019,7 +5019,7 @@ date,state,daily
 2022-10-10,Malaysia,304
 2022-10-11,Malaysia,353
 2022-10-12,Malaysia,323
-2022-10-13,Malaysia,259
+2022-10-13,Malaysia,258
 2022-10-14,Malaysia,256
 2022-10-15,Malaysia,268
 2022-10-16,Malaysia,240
@@ -5129,7 +5129,7 @@ date,state,daily
 2023-01-28,Malaysia,64
 2023-01-29,Malaysia,94
 2023-01-30,Malaysia,61
-2023-01-31,Malaysia,82
+2023-01-31,Malaysia,81
 2023-02-01,Malaysia,88
 2023-02-02,Malaysia,78
 2023-02-03,Malaysia,84
@@ -5479,6 +5479,8 @@ date,state,daily
 2024-01-13,Malaysia,59
 2024-01-14,Malaysia,44
 2024-01-15,Malaysia,27
+2024-01-16,Malaysia,27
+2024-01-17,Malaysia,46
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -85812,7 +85814,7 @@ date,state,daily
 2022-10-13,Sarawak,6
 2022-10-13,Selangor,85
 2022-10-13,Terengganu,7
-2022-10-13,W.P. Kuala Lumpur,36
+2022-10-13,W.P. Kuala Lumpur,35
 2022-10-13,W.P. Labuan,0
 2022-10-13,W.P. Putrajaya,2
 2022-10-14,Johor,34
@@ -87570,7 +87572,7 @@ date,state,daily
 2023-01-31,Pulau Pinang,5
 2023-01-31,Sabah,6
 2023-01-31,Sarawak,11
-2023-01-31,Selangor,24
+2023-01-31,Selangor,23
 2023-01-31,Terengganu,1
 2023-01-31,W.P. Kuala Lumpur,3
 2023-01-31,W.P. Labuan,0
@@ -93159,3 +93161,35 @@ date,state,daily
 2024-01-15,W.P. Kuala Lumpur,4
 2024-01-15,W.P. Labuan,0
 2024-01-15,W.P. Putrajaya,0
+2024-01-16,Johor,3
+2024-01-16,Kedah,1
+2024-01-16,Kelantan,0
+2024-01-16,Melaka,0
+2024-01-16,Negeri Sembilan,1
+2024-01-16,Pahang,1
+2024-01-16,Perak,1
+2024-01-16,Perlis,0
+2024-01-16,Pulau Pinang,4
+2024-01-16,Sabah,1
+2024-01-16,Sarawak,1
+2024-01-16,Selangor,10
+2024-01-16,Terengganu,0
+2024-01-16,W.P. Kuala Lumpur,4
+2024-01-16,W.P. Labuan,0
+2024-01-16,W.P. Putrajaya,0
+2024-01-17,Johor,3
+2024-01-17,Kedah,3
+2024-01-17,Kelantan,2
+2024-01-17,Melaka,0
+2024-01-17,Negeri Sembilan,2
+2024-01-17,Pahang,2
+2024-01-17,Perak,4
+2024-01-17,Perlis,0
+2024-01-17,Pulau Pinang,1
+2024-01-17,Sabah,1
+2024-01-17,Sarawak,6
+2024-01-17,Selangor,14
+2024-01-17,Terengganu,1
+2024-01-17,W.P. Kuala Lumpur,5
+2024-01-17,W.P. Labuan,1
+2024-01-17,W.P. Putrajaya,1
