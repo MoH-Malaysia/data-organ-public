@@ -5661,7 +5661,7 @@ date,state,daily
 2024-07-13,Malaysia,47
 2024-07-14,Malaysia,44
 2024-07-15,Malaysia,46
-2024-07-16,Malaysia,38
+2024-07-16,Malaysia,37
 2024-07-17,Malaysia,66
 2024-07-18,Malaysia,30
 2024-07-19,Malaysia,49
@@ -5678,6 +5678,7 @@ date,state,daily
 2024-07-30,Malaysia,30
 2024-07-31,Malaysia,47
 2024-08-01,Malaysia,67
+2024-08-02,Malaysia,27
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -96306,7 +96307,7 @@ date,state,daily
 2024-07-16,Sabah,3
 2024-07-16,Sarawak,3
 2024-07-16,Selangor,10
-2024-07-16,Terengganu,3
+2024-07-16,Terengganu,2
 2024-07-16,Wp Kuala Lumpur,6
 2024-07-16,Wp Labuan,0
 2024-07-16,Wp Putrajaya,0
@@ -96566,3 +96567,19 @@ date,state,daily
 2024-08-01,Wp Kuala Lumpur,6
 2024-08-01,Wp Labuan,0
 2024-08-01,Wp Putrajaya,0
+2024-08-02,Johor,3
+2024-08-02,Kedah,1
+2024-08-02,Kelantan,2
+2024-08-02,Melaka,1
+2024-08-02,Negeri Sembilan,0
+2024-08-02,Pahang,0
+2024-08-02,Perak,3
+2024-08-02,Perlis,0
+2024-08-02,Pulau Pinang,3
+2024-08-02,Sabah,2
+2024-08-02,Sarawak,1
+2024-08-02,Selangor,5
+2024-08-02,Terengganu,0
+2024-08-02,Wp Kuala Lumpur,5
+2024-08-02,Wp Labuan,1
+2024-08-02,Wp Putrajaya,0
