@@ -4984,7 +4984,7 @@ date,state,daily
 2022-09-05,Malaysia,9
 2022-09-06,Malaysia,175
 2022-09-07,Malaysia,1243
-2022-09-08,Malaysia,921
+2022-09-08,Malaysia,920
 2022-09-09,Malaysia,484
 2022-09-10,Malaysia,827
 2022-09-11,Malaysia,491
@@ -5714,6 +5714,7 @@ date,state,daily
 2024-09-04,Malaysia,30
 2024-09-05,Malaysia,52
 2024-09-06,Malaysia,28
+2024-09-07,Malaysia,31
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -85484,7 +85485,7 @@ date,state,daily
 2022-09-08,Kedah,36
 2022-09-08,Kelantan,15
 2022-09-08,Melaka,22
-2022-09-08,Negeri Sembilan,37
+2022-09-08,Negeri Sembilan,36
 2022-09-08,Pahang,13
 2022-09-08,Perak,62
 2022-09-08,Perlis,3
@@ -97178,3 +97179,19 @@ date,state,daily
 2024-09-06,Wp Kuala Lumpur,1
 2024-09-06,Wp Labuan,0
 2024-09-06,Wp Putrajaya,0
+2024-09-07,Johor,6
+2024-09-07,Kedah,0
+2024-09-07,Kelantan,4
+2024-09-07,Melaka,1
+2024-09-07,Negeri Sembilan,1
+2024-09-07,Pahang,1
+2024-09-07,Perak,5
+2024-09-07,Perlis,0
+2024-09-07,Pulau Pinang,2
+2024-09-07,Sabah,1
+2024-09-07,Sarawak,3
+2024-09-07,Selangor,5
+2024-09-07,Terengganu,0
+2024-09-07,Wp Kuala Lumpur,1
+2024-09-07,Wp Labuan,0
+2024-09-07,Wp Putrajaya,1
