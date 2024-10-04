@@ -4997,7 +4997,7 @@ date,state,daily
 2022-09-18,Malaysia,353
 2022-09-19,Malaysia,236
 2022-09-20,Malaysia,234
-2022-09-21,Malaysia,219
+2022-09-21,Malaysia,218
 2022-09-22,Malaysia,253
 2022-09-23,Malaysia,240
 2022-09-24,Malaysia,240
@@ -5262,7 +5262,7 @@ date,state,daily
 2023-06-10,Malaysia,101
 2023-06-11,Malaysia,58
 2023-06-12,Malaysia,116
-2023-06-13,Malaysia,137
+2023-06-13,Malaysia,136
 2023-06-14,Malaysia,86
 2023-06-15,Malaysia,64
 2023-06-16,Malaysia,70
@@ -5480,7 +5480,7 @@ date,state,daily
 2024-01-14,Malaysia,44
 2024-01-15,Malaysia,28
 2024-01-16,Malaysia,27
-2024-01-17,Malaysia,45
+2024-01-17,Malaysia,44
 2024-01-18,Malaysia,45
 2024-01-19,Malaysia,32
 2024-01-20,Malaysia,48
@@ -5740,6 +5740,7 @@ date,state,daily
 2024-09-30,Malaysia,28
 2024-10-01,Malaysia,23
 2024-10-02,Malaysia,44
+2024-10-03,Malaysia,30
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -85740,7 +85741,7 @@ date,state,daily
 2022-09-21,Pahang,6
 2022-09-21,Perak,7
 2022-09-21,Perlis,1
-2022-09-21,Pulau Pinang,13
+2022-09-21,Pulau Pinang,12
 2022-09-21,Sabah,11
 2022-09-21,Sarawak,7
 2022-09-21,Selangor,71
@@ -89974,7 +89975,7 @@ date,state,daily
 2023-06-12,Wp Putrajaya,0
 2023-06-13,Johor,13
 2023-06-13,Kedah,12
-2023-06-13,Kelantan,4
+2023-06-13,Kelantan,3
 2023-06-13,Melaka,10
 2023-06-13,Negeri Sembilan,14
 2023-06-13,Pahang,5
@@ -93464,7 +93465,7 @@ date,state,daily
 2024-01-17,Kedah,3
 2024-01-17,Kelantan,1
 2024-01-17,Melaka,0
-2024-01-17,Negeri Sembilan,2
+2024-01-17,Negeri Sembilan,1
 2024-01-17,Pahang,2
 2024-01-17,Perak,4
 2024-01-17,Perlis,0
@@ -97620,3 +97621,19 @@ date,state,daily
 2024-10-02,Wp Kuala Lumpur,5
 2024-10-02,Wp Labuan,0
 2024-10-02,Wp Putrajaya,0
+2024-10-03,Johor,1
+2024-10-03,Kedah,1
+2024-10-03,Kelantan,6
+2024-10-03,Melaka,0
+2024-10-03,Negeri Sembilan,1
+2024-10-03,Pahang,2
+2024-10-03,Perak,1
+2024-10-03,Perlis,0
+2024-10-03,Pulau Pinang,4
+2024-10-03,Sabah,1
+2024-10-03,Sarawak,4
+2024-10-03,Selangor,6
+2024-10-03,Terengganu,1
+2024-10-03,Wp Kuala Lumpur,2
+2024-10-03,Wp Labuan,0
+2024-10-03,Wp Putrajaya,0
