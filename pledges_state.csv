@@ -5627,7 +5627,7 @@ date,state,daily
 2024-06-09,Malaysia,47
 2024-06-10,Malaysia,26
 2024-06-11,Malaysia,41
-2024-06-12,Malaysia,44
+2024-06-12,Malaysia,43
 2024-06-13,Malaysia,48
 2024-06-14,Malaysia,50
 2024-06-15,Malaysia,34
@@ -5650,7 +5650,7 @@ date,state,daily
 2024-07-02,Malaysia,46
 2024-07-03,Malaysia,33
 2024-07-04,Malaysia,36
-2024-07-05,Malaysia,41
+2024-07-05,Malaysia,40
 2024-07-06,Malaysia,104
 2024-07-07,Malaysia,56
 2024-07-08,Malaysia,24
@@ -5793,7 +5793,7 @@ date,state,daily
 2024-11-22,Malaysia,34
 2024-11-23,Malaysia,29
 2024-11-24,Malaysia,30
-2024-11-25,Malaysia,23
+2024-11-25,Malaysia,22
 2024-11-26,Malaysia,50
 2024-11-27,Malaysia,43
 2024-11-28,Malaysia,241
@@ -5821,6 +5821,7 @@ date,state,daily
 2024-12-20,Malaysia,19
 2024-12-21,Malaysia,24
 2024-12-22,Malaysia,35
+2024-12-23,Malaysia,20
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -95894,7 +95895,7 @@ date,state,daily
 2024-06-11,Wp Labuan,0
 2024-06-11,Wp Putrajaya,0
 2024-06-12,Johor,7
-2024-06-12,Kedah,7
+2024-06-12,Kedah,6
 2024-06-12,Kelantan,2
 2024-06-12,Melaka,2
 2024-06-12,Negeri Sembilan,2
@@ -96261,7 +96262,7 @@ date,state,daily
 2024-07-04,Wp Kuala Lumpur,3
 2024-07-04,Wp Labuan,0
 2024-07-04,Wp Putrajaya,0
-2024-07-05,Johor,4
+2024-07-05,Johor,3
 2024-07-05,Kedah,0
 2024-07-05,Kelantan,0
 2024-07-05,Melaka,1
@@ -98549,7 +98550,7 @@ date,state,daily
 2024-11-24,Wp Kuala Lumpur,3
 2024-11-24,Wp Labuan,0
 2024-11-24,Wp Putrajaya,0
-2024-11-25,Johor,5
+2024-11-25,Johor,4
 2024-11-25,Kedah,2
 2024-11-25,Kelantan,0
 2024-11-25,Melaka,0
@@ -98997,3 +98998,19 @@ date,state,daily
 2024-12-22,Wp Kuala Lumpur,5
 2024-12-22,Wp Labuan,0
 2024-12-22,Wp Putrajaya,0
+2024-12-23,Johor,6
+2024-12-23,Kedah,2
+2024-12-23,Kelantan,0
+2024-12-23,Melaka,0
+2024-12-23,Negeri Sembilan,0
+2024-12-23,Pahang,0
+2024-12-23,Perak,3
+2024-12-23,Perlis,0
+2024-12-23,Pulau Pinang,1
+2024-12-23,Sabah,3
+2024-12-23,Sarawak,0
+2024-12-23,Selangor,4
+2024-12-23,Terengganu,0
+2024-12-23,Wp Kuala Lumpur,1
+2024-12-23,Wp Labuan,0
+2024-12-23,Wp Putrajaya,0
