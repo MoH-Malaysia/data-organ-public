@@ -5110,7 +5110,7 @@ date,state,daily
 2023-01-09,Malaysia,147
 2023-01-10,Malaysia,165
 2023-01-11,Malaysia,157
-2023-01-12,Malaysia,125
+2023-01-12,Malaysia,124
 2023-01-13,Malaysia,94
 2023-01-14,Malaysia,88
 2023-01-15,Malaysia,156
@@ -5601,7 +5601,7 @@ date,state,daily
 2024-05-14,Malaysia,29
 2024-05-15,Malaysia,60
 2024-05-16,Malaysia,37
-2024-05-17,Malaysia,51
+2024-05-17,Malaysia,50
 2024-05-18,Malaysia,47
 2024-05-19,Malaysia,29
 2024-05-20,Malaysia,42
@@ -5851,7 +5851,7 @@ date,state,daily
 2025-01-19,Malaysia,35
 2025-01-20,Malaysia,28
 2025-01-21,Malaysia,21
-2025-01-22,Malaysia,38
+2025-01-22,Malaysia,37
 2025-01-23,Malaysia,40
 2025-01-24,Malaysia,34
 2025-01-25,Malaysia,22
@@ -5863,6 +5863,7 @@ date,state,daily
 2025-01-31,Malaysia,31
 2025-02-01,Malaysia,23
 2025-02-02,Malaysia,36
+2025-02-03,Malaysia,24
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -87663,7 +87664,7 @@ date,state,daily
 2023-01-11,Wp Kuala Lumpur,12
 2023-01-11,Wp Labuan,1
 2023-01-11,Wp Putrajaya,0
-2023-01-12,Johor,12
+2023-01-12,Johor,11
 2023-01-12,Kedah,6
 2023-01-12,Kelantan,2
 2023-01-12,Melaka,9
@@ -95523,7 +95524,7 @@ date,state,daily
 2024-05-17,Kedah,5
 2024-05-17,Kelantan,0
 2024-05-17,Melaka,1
-2024-05-17,Negeri Sembilan,4
+2024-05-17,Negeri Sembilan,3
 2024-05-17,Pahang,1
 2024-05-17,Perak,2
 2024-05-17,Perlis,0
@@ -99520,7 +99521,7 @@ date,state,daily
 2025-01-21,Wp Labuan,0
 2025-01-21,Wp Putrajaya,0
 2025-01-22,Johor,3
-2025-01-22,Kedah,1
+2025-01-22,Kedah,0
 2025-01-22,Kelantan,0
 2025-01-22,Melaka,2
 2025-01-22,Negeri Sembilan,1
@@ -99711,3 +99712,19 @@ date,state,daily
 2025-02-02,Wp Kuala Lumpur,3
 2025-02-02,Wp Labuan,0
 2025-02-02,Wp Putrajaya,0
+2025-02-03,Johor,3
+2025-02-03,Kedah,2
+2025-02-03,Kelantan,1
+2025-02-03,Melaka,2
+2025-02-03,Negeri Sembilan,2
+2025-02-03,Pahang,1
+2025-02-03,Perak,0
+2025-02-03,Perlis,1
+2025-02-03,Pulau Pinang,0
+2025-02-03,Sabah,0
+2025-02-03,Sarawak,1
+2025-02-03,Selangor,7
+2025-02-03,Terengganu,0
+2025-02-03,Wp Kuala Lumpur,4
+2025-02-03,Wp Labuan,0
+2025-02-03,Wp Putrajaya,0
