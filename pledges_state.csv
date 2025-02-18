@@ -4993,7 +4993,7 @@ date,state,daily
 2022-09-14,Malaysia,974
 2022-09-15,Malaysia,726
 2022-09-16,Malaysia,436
-2022-09-17,Malaysia,401
+2022-09-17,Malaysia,400
 2022-09-18,Malaysia,353
 2022-09-19,Malaysia,236
 2022-09-20,Malaysia,234
@@ -5018,7 +5018,7 @@ date,state,daily
 2022-10-09,Malaysia,450
 2022-10-10,Malaysia,300
 2022-10-11,Malaysia,351
-2022-10-12,Malaysia,320
+2022-10-12,Malaysia,319
 2022-10-13,Malaysia,257
 2022-10-14,Malaysia,256
 2022-10-15,Malaysia,266
@@ -5864,10 +5864,10 @@ date,state,daily
 2025-02-01,Malaysia,23
 2025-02-02,Malaysia,36
 2025-02-03,Malaysia,24
-2025-02-04,Malaysia,40
+2025-02-04,Malaysia,39
 2025-02-05,Malaysia,49
 2025-02-06,Malaysia,37
-2025-02-07,Malaysia,44
+2025-02-07,Malaysia,43
 2025-02-08,Malaysia,35
 2025-02-09,Malaysia,81
 2025-02-10,Malaysia,50
@@ -5878,6 +5878,7 @@ date,state,daily
 2025-02-15,Malaysia,49
 2025-02-16,Malaysia,48
 2025-02-17,Malaysia,45
+2025-02-18,Malaysia,46
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -85817,7 +85818,7 @@ date,state,daily
 2022-09-17,Pulau Pinang,28
 2022-09-17,Sabah,10
 2022-09-17,Sarawak,13
-2022-09-17,Selangor,144
+2022-09-17,Selangor,143
 2022-09-17,Terengganu,5
 2022-09-17,Wp Kuala Lumpur,61
 2022-09-17,Wp Labuan,0
@@ -86219,7 +86220,7 @@ date,state,daily
 2022-10-12,Sarawak,17
 2022-10-12,Selangor,122
 2022-10-12,Terengganu,1
-2022-10-12,Wp Kuala Lumpur,41
+2022-10-12,Wp Kuala Lumpur,40
 2022-10-12,Wp Labuan,1
 2022-10-12,Wp Putrajaya,5
 2022-10-13,Johor,29
@@ -99742,7 +99743,7 @@ date,state,daily
 2025-02-03,Wp Kuala Lumpur,4
 2025-02-03,Wp Labuan,0
 2025-02-03,Wp Putrajaya,0
-2025-02-04,Johor,9
+2025-02-04,Johor,8
 2025-02-04,Kedah,3
 2025-02-04,Kelantan,1
 2025-02-04,Melaka,0
@@ -99803,7 +99804,7 @@ date,state,daily
 2025-02-07,Sarawak,1
 2025-02-07,Selangor,11
 2025-02-07,Terengganu,1
-2025-02-07,Wp Kuala Lumpur,10
+2025-02-07,Wp Kuala Lumpur,9
 2025-02-07,Wp Labuan,0
 2025-02-07,Wp Putrajaya,0
 2025-02-08,Johor,3
@@ -99966,3 +99967,19 @@ date,state,daily
 2025-02-17,Wp Kuala Lumpur,3
 2025-02-17,Wp Labuan,0
 2025-02-17,Wp Putrajaya,1
+2025-02-18,Johor,12
+2025-02-18,Kedah,2
+2025-02-18,Kelantan,0
+2025-02-18,Melaka,2
+2025-02-18,Negeri Sembilan,0
+2025-02-18,Pahang,0
+2025-02-18,Perak,4
+2025-02-18,Perlis,0
+2025-02-18,Pulau Pinang,5
+2025-02-18,Sabah,4
+2025-02-18,Sarawak,2
+2025-02-18,Selangor,10
+2025-02-18,Terengganu,3
+2025-02-18,Wp Kuala Lumpur,2
+2025-02-18,Wp Labuan,0
+2025-02-18,Wp Putrajaya,0
