@@ -5039,13 +5039,13 @@ date,state,daily
 2022-10-30,Malaysia,180
 2022-10-31,Malaysia,245
 2022-11-01,Malaysia,233
-2022-11-02,Malaysia,331
+2022-11-02,Malaysia,330
 2022-11-03,Malaysia,367
 2022-11-04,Malaysia,267
 2022-11-05,Malaysia,221
 2022-11-06,Malaysia,236
 2022-11-07,Malaysia,230
-2022-11-08,Malaysia,222
+2022-11-08,Malaysia,221
 2022-11-09,Malaysia,194
 2022-11-10,Malaysia,223
 2022-11-11,Malaysia,176
@@ -5675,7 +5675,7 @@ date,state,daily
 2024-07-27,Malaysia,36
 2024-07-28,Malaysia,25
 2024-07-29,Malaysia,34
-2024-07-30,Malaysia,30
+2024-07-30,Malaysia,29
 2024-07-31,Malaysia,47
 2024-08-01,Malaysia,65
 2024-08-02,Malaysia,27
@@ -5883,6 +5883,7 @@ date,state,daily
 2025-02-20,Malaysia,51
 2025-02-21,Malaysia,53
 2025-02-22,Malaysia,40
+2025-02-23,Malaysia,54
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -86560,7 +86561,7 @@ date,state,daily
 2022-11-02,Sarawak,15
 2022-11-02,Selangor,110
 2022-11-02,Terengganu,4
-2022-11-02,Wp Kuala Lumpur,48
+2022-11-02,Wp Kuala Lumpur,47
 2022-11-02,Wp Labuan,1
 2022-11-02,Wp Putrajaya,1
 2022-11-03,Johor,48
@@ -86654,7 +86655,7 @@ date,state,daily
 2022-11-08,Pulau Pinang,11
 2022-11-08,Sabah,17
 2022-11-08,Sarawak,6
-2022-11-08,Selangor,79
+2022-11-08,Selangor,78
 2022-11-08,Terengganu,1
 2022-11-08,Wp Kuala Lumpur,36
 2022-11-08,Wp Labuan,1
@@ -96733,7 +96734,7 @@ date,state,daily
 2024-07-30,Perlis,0
 2024-07-30,Pulau Pinang,3
 2024-07-30,Sabah,2
-2024-07-30,Sarawak,2
+2024-07-30,Sarawak,1
 2024-07-30,Selangor,5
 2024-07-30,Terengganu,3
 2024-07-30,Wp Kuala Lumpur,1
@@ -100051,3 +100052,19 @@ date,state,daily
 2025-02-22,Wp Kuala Lumpur,7
 2025-02-22,Wp Labuan,0
 2025-02-22,Wp Putrajaya,0
+2025-02-23,Johor,6
+2025-02-23,Kedah,2
+2025-02-23,Kelantan,2
+2025-02-23,Melaka,0
+2025-02-23,Negeri Sembilan,3
+2025-02-23,Pahang,2
+2025-02-23,Perak,2
+2025-02-23,Perlis,0
+2025-02-23,Pulau Pinang,5
+2025-02-23,Sabah,0
+2025-02-23,Sarawak,0
+2025-02-23,Selangor,27
+2025-02-23,Terengganu,0
+2025-02-23,Wp Kuala Lumpur,4
+2025-02-23,Wp Labuan,0
+2025-02-23,Wp Putrajaya,1
