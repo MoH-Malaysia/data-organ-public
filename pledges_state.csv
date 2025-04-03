@@ -5614,7 +5614,7 @@ date,state,daily
 2024-05-27,Malaysia,43
 2024-05-28,Malaysia,61
 2024-05-29,Malaysia,60
-2024-05-30,Malaysia,84
+2024-05-30,Malaysia,83
 2024-05-31,Malaysia,58
 2024-06-01,Malaysia,72
 2024-06-02,Malaysia,60
@@ -5862,7 +5862,7 @@ date,state,daily
 2025-01-30,Malaysia,19
 2025-01-31,Malaysia,31
 2025-02-01,Malaysia,23
-2025-02-02,Malaysia,36
+2025-02-02,Malaysia,35
 2025-02-03,Malaysia,24
 2025-02-04,Malaysia,39
 2025-02-05,Malaysia,49
@@ -5911,7 +5911,7 @@ date,state,daily
 2025-03-20,Malaysia,35
 2025-03-21,Malaysia,22
 2025-03-22,Malaysia,33
-2025-03-23,Malaysia,50
+2025-03-23,Malaysia,49
 2025-03-24,Malaysia,26
 2025-03-25,Malaysia,27
 2025-03-26,Malaysia,23
@@ -5922,6 +5922,7 @@ date,state,daily
 2025-03-31,Malaysia,19
 2025-04-01,Malaysia,14
 2025-04-02,Malaysia,28
+2025-04-03,Malaysia,31
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -95786,7 +95787,7 @@ date,state,daily
 2024-05-29,Wp Kuala Lumpur,10
 2024-05-29,Wp Labuan,0
 2024-05-29,Wp Putrajaya,1
-2024-05-30,Johor,20
+2024-05-30,Johor,19
 2024-05-30,Kedah,4
 2024-05-30,Kelantan,2
 2024-05-30,Melaka,3
@@ -99756,7 +99757,7 @@ date,state,daily
 2025-02-01,Wp Putrajaya,0
 2025-02-02,Johor,8
 2025-02-02,Kedah,1
-2025-02-02,Kelantan,4
+2025-02-02,Kelantan,3
 2025-02-02,Melaka,0
 2025-02-02,Negeri Sembilan,0
 2025-02-02,Pahang,0
@@ -100539,7 +100540,7 @@ date,state,daily
 2025-03-22,Wp Labuan,0
 2025-03-22,Wp Putrajaya,1
 2025-03-23,Johor,9
-2025-03-23,Kedah,2
+2025-03-23,Kedah,1
 2025-03-23,Kelantan,1
 2025-03-23,Melaka,2
 2025-03-23,Negeri Sembilan,2
@@ -100714,3 +100715,19 @@ date,state,daily
 2025-04-02,Wp Kuala Lumpur,4
 2025-04-02,Wp Labuan,0
 2025-04-02,Wp Putrajaya,0
+2025-04-03,Johor,2
+2025-04-03,Kedah,0
+2025-04-03,Kelantan,0
+2025-04-03,Melaka,1
+2025-04-03,Negeri Sembilan,3
+2025-04-03,Pahang,2
+2025-04-03,Perak,0
+2025-04-03,Perlis,1
+2025-04-03,Pulau Pinang,6
+2025-04-03,Sabah,1
+2025-04-03,Sarawak,2
+2025-04-03,Selangor,7
+2025-04-03,Terengganu,1
+2025-04-03,Wp Kuala Lumpur,5
+2025-04-03,Wp Labuan,0
+2025-04-03,Wp Putrajaya,0
