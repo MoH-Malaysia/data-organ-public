@@ -4991,7 +4991,7 @@ date,state,daily
 2022-09-12,Malaysia,537
 2022-09-13,Malaysia,603
 2022-09-14,Malaysia,972
-2022-09-15,Malaysia,726
+2022-09-15,Malaysia,725
 2022-09-16,Malaysia,436
 2022-09-17,Malaysia,399
 2022-09-18,Malaysia,352
@@ -5010,7 +5010,7 @@ date,state,daily
 2022-10-01,Malaysia,1034
 2022-10-02,Malaysia,712
 2022-10-03,Malaysia,1400
-2022-10-04,Malaysia,1284
+2022-10-04,Malaysia,1283
 2022-10-05,Malaysia,938
 2022-10-06,Malaysia,707
 2022-10-07,Malaysia,496
@@ -5733,7 +5733,7 @@ date,state,daily
 2024-09-23,Malaysia,33
 2024-09-24,Malaysia,51
 2024-09-25,Malaysia,57
-2024-09-26,Malaysia,42
+2024-09-26,Malaysia,41
 2024-09-27,Malaysia,29
 2024-09-28,Malaysia,34
 2024-09-29,Malaysia,58
@@ -5913,7 +5913,7 @@ date,state,daily
 2025-03-22,Malaysia,33
 2025-03-23,Malaysia,49
 2025-03-24,Malaysia,26
-2025-03-25,Malaysia,27
+2025-03-25,Malaysia,26
 2025-03-26,Malaysia,22
 2025-03-27,Malaysia,31
 2025-03-28,Malaysia,38
@@ -6024,6 +6024,7 @@ date,state,daily
 2025-07-11,Malaysia,45
 2025-07-12,Malaysia,43
 2025-07-13,Malaysia,38
+2025-07-14,Malaysia,48
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -85933,7 +85934,7 @@ date,state,daily
 2022-09-15,Sarawak,34
 2022-09-15,Selangor,244
 2022-09-15,Terengganu,1
-2022-09-15,Wp Kuala Lumpur,117
+2022-09-15,Wp Kuala Lumpur,116
 2022-09-15,Wp Labuan,1
 2022-09-15,Wp Putrajaya,1
 2022-09-16,Johor,64
@@ -86230,7 +86231,7 @@ date,state,daily
 2022-10-04,Melaka,74
 2022-10-04,Negeri Sembilan,54
 2022-10-04,Pahang,37
-2022-10-04,Perak,73
+2022-10-04,Perak,72
 2022-10-04,Perlis,9
 2022-10-04,Pulau Pinang,79
 2022-10-04,Sabah,46
@@ -97803,7 +97804,7 @@ date,state,daily
 2024-09-26,Pulau Pinang,2
 2024-09-26,Sabah,2
 2024-09-26,Sarawak,3
-2024-09-26,Selangor,9
+2024-09-26,Selangor,8
 2024-09-26,Terengganu,0
 2024-09-26,Wp Kuala Lumpur,2
 2024-09-26,Wp Labuan,0
@@ -100678,7 +100679,7 @@ date,state,daily
 2025-03-25,Melaka,1
 2025-03-25,Negeri Sembilan,1
 2025-03-25,Pahang,0
-2025-03-25,Perak,4
+2025-03-25,Perak,3
 2025-03-25,Perlis,0
 2025-03-25,Pulau Pinang,2
 2025-03-25,Sabah,0
@@ -102448,3 +102449,19 @@ date,state,daily
 2025-07-13,Wp Kuala Lumpur,1
 2025-07-13,Wp Labuan,0
 2025-07-13,Wp Putrajaya,2
+2025-07-14,Johor,9
+2025-07-14,Kedah,0
+2025-07-14,Kelantan,2
+2025-07-14,Melaka,6
+2025-07-14,Negeri Sembilan,2
+2025-07-14,Pahang,3
+2025-07-14,Perak,4
+2025-07-14,Perlis,0
+2025-07-14,Pulau Pinang,4
+2025-07-14,Sabah,2
+2025-07-14,Sarawak,1
+2025-07-14,Selangor,12
+2025-07-14,Terengganu,0
+2025-07-14,Wp Kuala Lumpur,3
+2025-07-14,Wp Labuan,0
+2025-07-14,Wp Putrajaya,0
