@@ -5010,7 +5010,7 @@ date,state,daily
 2022-10-01,Malaysia,1034
 2022-10-02,Malaysia,712
 2022-10-03,Malaysia,1400
-2022-10-04,Malaysia,1283
+2022-10-04,Malaysia,1282
 2022-10-05,Malaysia,938
 2022-10-06,Malaysia,707
 2022-10-07,Malaysia,496
@@ -5032,7 +5032,7 @@ date,state,daily
 2022-10-23,Malaysia,142
 2022-10-24,Malaysia,169
 2022-10-25,Malaysia,182
-2022-10-26,Malaysia,175
+2022-10-26,Malaysia,174
 2022-10-27,Malaysia,161
 2022-10-28,Malaysia,180
 2022-10-29,Malaysia,146
@@ -5655,7 +5655,7 @@ date,state,daily
 2024-07-07,Malaysia,55
 2024-07-08,Malaysia,24
 2024-07-09,Malaysia,24
-2024-07-10,Malaysia,41
+2024-07-10,Malaysia,40
 2024-07-11,Malaysia,42
 2024-07-12,Malaysia,24
 2024-07-13,Malaysia,47
@@ -6025,6 +6025,7 @@ date,state,daily
 2025-07-12,Malaysia,43
 2025-07-13,Malaysia,38
 2025-07-14,Malaysia,48
+2025-07-15,Malaysia,53
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -86230,7 +86231,7 @@ date,state,daily
 2022-10-04,Kelantan,31
 2022-10-04,Melaka,74
 2022-10-04,Negeri Sembilan,54
-2022-10-04,Pahang,37
+2022-10-04,Pahang,36
 2022-10-04,Perak,72
 2022-10-04,Perlis,9
 2022-10-04,Pulau Pinang,79
@@ -86588,7 +86589,7 @@ date,state,daily
 2022-10-26,Pulau Pinang,14
 2022-10-26,Sabah,2
 2022-10-26,Sarawak,10
-2022-10-26,Selangor,52
+2022-10-26,Selangor,51
 2022-10-26,Terengganu,7
 2022-10-26,Wp Kuala Lumpur,25
 2022-10-26,Wp Labuan,1
@@ -96545,7 +96546,7 @@ date,state,daily
 2024-07-09,Wp Kuala Lumpur,1
 2024-07-09,Wp Labuan,0
 2024-07-09,Wp Putrajaya,0
-2024-07-10,Johor,7
+2024-07-10,Johor,6
 2024-07-10,Kedah,2
 2024-07-10,Kelantan,0
 2024-07-10,Melaka,4
@@ -102465,3 +102466,19 @@ date,state,daily
 2025-07-14,Wp Kuala Lumpur,3
 2025-07-14,Wp Labuan,0
 2025-07-14,Wp Putrajaya,0
+2025-07-15,Johor,7
+2025-07-15,Kedah,1
+2025-07-15,Kelantan,1
+2025-07-15,Melaka,0
+2025-07-15,Negeri Sembilan,6
+2025-07-15,Pahang,1
+2025-07-15,Perak,4
+2025-07-15,Perlis,0
+2025-07-15,Pulau Pinang,1
+2025-07-15,Sabah,2
+2025-07-15,Sarawak,1
+2025-07-15,Selangor,23
+2025-07-15,Terengganu,2
+2025-07-15,Wp Kuala Lumpur,4
+2025-07-15,Wp Labuan,0
+2025-07-15,Wp Putrajaya,0
