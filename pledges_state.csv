@@ -6044,7 +6044,7 @@ date,state,daily
 2025-07-31,Malaysia,28
 2025-08-01,Malaysia,26
 2025-08-02,Malaysia,37
-2025-08-03,Malaysia,36
+2025-08-03,Malaysia,35
 2025-08-04,Malaysia,29
 2025-08-05,Malaysia,24
 2025-08-06,Malaysia,34
@@ -6065,7 +6065,7 @@ date,state,daily
 2025-08-21,Malaysia,223
 2025-08-22,Malaysia,246
 2025-08-23,Malaysia,110
-2025-08-24,Malaysia,310
+2025-08-24,Malaysia,309
 2025-08-25,Malaysia,1117
 2025-08-26,Malaysia,538
 2025-08-27,Malaysia,324
@@ -6094,7 +6094,7 @@ date,state,daily
 2025-09-19,Malaysia,55
 2025-09-20,Malaysia,71
 2025-09-21,Malaysia,75
-2025-09-22,Malaysia,58
+2025-09-22,Malaysia,57
 2025-09-23,Malaysia,43
 2025-09-24,Malaysia,42
 2025-09-25,Malaysia,62
@@ -6113,6 +6113,7 @@ date,state,daily
 2025-10-08,Malaysia,60
 2025-10-09,Malaysia,56
 2025-10-10,Malaysia,56
+2025-10-11,Malaysia,112
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -102870,7 +102871,7 @@ date,state,daily
 2025-08-03,Sarawak,1
 2025-08-03,Selangor,16
 2025-08-03,Terengganu,2
-2025-08-03,Wp Kuala Lumpur,3
+2025-08-03,Wp Kuala Lumpur,2
 2025-08-03,Wp Labuan,0
 2025-08-03,Wp Putrajaya,1
 2025-08-04,Johor,5
@@ -103197,7 +103198,7 @@ date,state,daily
 2025-08-24,Kedah,26
 2025-08-24,Kelantan,21
 2025-08-24,Melaka,14
-2025-08-24,Negeri Sembilan,17
+2025-08-24,Negeri Sembilan,16
 2025-08-24,Pahang,27
 2025-08-24,Perak,28
 2025-08-24,Perlis,7
@@ -103668,7 +103669,7 @@ date,state,daily
 2025-09-22,Pulau Pinang,4
 2025-09-22,Sabah,2
 2025-09-22,Sarawak,1
-2025-09-22,Selangor,17
+2025-09-22,Selangor,16
 2025-09-22,Terengganu,0
 2025-09-22,Wp Kuala Lumpur,11
 2025-09-22,Wp Labuan,0
@@ -103961,3 +103962,19 @@ date,state,daily
 2025-10-10,Wp Kuala Lumpur,2
 2025-10-10,Wp Labuan,0
 2025-10-10,Wp Putrajaya,0
+2025-10-11,Johor,21
+2025-10-11,Kedah,1
+2025-10-11,Kelantan,1
+2025-10-11,Melaka,1
+2025-10-11,Negeri Sembilan,3
+2025-10-11,Pahang,3
+2025-10-11,Perak,2
+2025-10-11,Perlis,0
+2025-10-11,Pulau Pinang,3
+2025-10-11,Sabah,4
+2025-10-11,Sarawak,47
+2025-10-11,Selangor,17
+2025-10-11,Terengganu,1
+2025-10-11,Wp Kuala Lumpur,8
+2025-10-11,Wp Labuan,0
+2025-10-11,Wp Putrajaya,0
