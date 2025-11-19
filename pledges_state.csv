@@ -4994,7 +4994,7 @@ date,state,daily
 2022-09-15,Malaysia,723
 2022-09-16,Malaysia,436
 2022-09-17,Malaysia,399
-2022-09-18,Malaysia,350
+2022-09-18,Malaysia,349
 2022-09-19,Malaysia,233
 2022-09-20,Malaysia,233
 2022-09-21,Malaysia,217
@@ -5557,7 +5557,7 @@ date,state,daily
 2024-03-31,Malaysia,43
 2024-04-01,Malaysia,68
 2024-04-02,Malaysia,37
-2024-04-03,Malaysia,40
+2024-04-03,Malaysia,39
 2024-04-04,Malaysia,28
 2024-04-05,Malaysia,27
 2024-04-06,Malaysia,27
@@ -6117,7 +6117,7 @@ date,state,daily
 2025-10-12,Malaysia,66
 2025-10-13,Malaysia,47
 2025-10-14,Malaysia,52
-2025-10-15,Malaysia,45
+2025-10-15,Malaysia,44
 2025-10-16,Malaysia,32
 2025-10-17,Malaysia,74
 2025-10-18,Malaysia,88
@@ -6152,6 +6152,7 @@ date,state,daily
 2025-11-16,Malaysia,26
 2025-11-17,Malaysia,31
 2025-11-18,Malaysia,41
+2025-11-19,Malaysia,33
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -86107,7 +86108,7 @@ date,state,daily
 2022-09-18,Pulau Pinang,24
 2022-09-18,Sabah,14
 2022-09-18,Sarawak,14
-2022-09-18,Selangor,123
+2022-09-18,Selangor,122
 2022-09-18,Terengganu,4
 2022-09-18,Wp Kuala Lumpur,54
 2022-09-18,Wp Labuan,1
@@ -95107,7 +95108,7 @@ date,state,daily
 2024-04-03,Johor,2
 2024-04-03,Kedah,4
 2024-04-03,Kelantan,1
-2024-04-03,Melaka,4
+2024-04-03,Melaka,3
 2024-04-03,Negeri Sembilan,4
 2024-04-03,Pahang,0
 2024-04-03,Perak,3
@@ -104077,7 +104078,7 @@ date,state,daily
 2025-10-15,Sarawak,5
 2025-10-15,Selangor,12
 2025-10-15,Terengganu,1
-2025-10-15,Wp Kuala Lumpur,3
+2025-10-15,Wp Kuala Lumpur,2
 2025-10-15,Wp Labuan,0
 2025-10-15,Wp Putrajaya,0
 2025-10-16,Johor,8
@@ -104624,3 +104625,19 @@ date,state,daily
 2025-11-18,Wp Kuala Lumpur,3
 2025-11-18,Wp Labuan,0
 2025-11-18,Wp Putrajaya,0
+2025-11-19,Johor,4
+2025-11-19,Kedah,2
+2025-11-19,Kelantan,0
+2025-11-19,Melaka,0
+2025-11-19,Negeri Sembilan,0
+2025-11-19,Pahang,1
+2025-11-19,Perak,0
+2025-11-19,Perlis,0
+2025-11-19,Pulau Pinang,1
+2025-11-19,Sabah,6
+2025-11-19,Sarawak,2
+2025-11-19,Selangor,15
+2025-11-19,Terengganu,0
+2025-11-19,Wp Kuala Lumpur,2
+2025-11-19,Wp Labuan,0
+2025-11-19,Wp Putrajaya,0
