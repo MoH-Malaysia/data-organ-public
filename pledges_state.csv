@@ -5103,7 +5103,7 @@ date,state,daily
 2023-01-02,Malaysia,226
 2023-01-03,Malaysia,218
 2023-01-04,Malaysia,246
-2023-01-05,Malaysia,255
+2023-01-05,Malaysia,254
 2023-01-06,Malaysia,196
 2023-01-07,Malaysia,133
 2023-01-08,Malaysia,175
@@ -5346,7 +5346,7 @@ date,state,daily
 2023-09-02,Malaysia,32
 2023-09-03,Malaysia,48
 2023-09-04,Malaysia,36
-2023-09-05,Malaysia,51
+2023-09-05,Malaysia,50
 2023-09-06,Malaysia,59
 2023-09-07,Malaysia,117
 2023-09-08,Malaysia,115
@@ -6135,7 +6135,7 @@ date,state,daily
 2025-10-30,Malaysia,44
 2025-10-31,Malaysia,39
 2025-11-01,Malaysia,53
-2025-11-02,Malaysia,40
+2025-11-02,Malaysia,39
 2025-11-03,Malaysia,40
 2025-11-04,Malaysia,39
 2025-11-05,Malaysia,29
@@ -6182,6 +6182,7 @@ date,state,daily
 2025-12-16,Malaysia,21
 2025-12-17,Malaysia,25
 2025-12-18,Malaysia,31
+2025-12-19,Malaysia,20
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -87881,7 +87882,7 @@ date,state,daily
 2023-01-05,Pulau Pinang,20
 2023-01-05,Sabah,8
 2023-01-05,Sarawak,8
-2023-01-05,Selangor,72
+2023-01-05,Selangor,71
 2023-01-05,Terengganu,2
 2023-01-05,Wp Kuala Lumpur,25
 2023-01-05,Wp Labuan,0
@@ -91771,7 +91772,7 @@ date,state,daily
 2023-09-05,Sarawak,6
 2023-09-05,Selangor,16
 2023-09-05,Terengganu,2
-2023-09-05,Wp Kuala Lumpur,3
+2023-09-05,Wp Kuala Lumpur,2
 2023-09-05,Wp Labuan,1
 2023-09-05,Wp Putrajaya,0
 2023-09-06,Johor,10
@@ -104390,7 +104391,7 @@ date,state,daily
 2025-11-02,Pahang,6
 2025-11-02,Perak,2
 2025-11-02,Perlis,0
-2025-11-02,Pulau Pinang,2
+2025-11-02,Pulau Pinang,1
 2025-11-02,Sabah,3
 2025-11-02,Sarawak,5
 2025-11-02,Selangor,6
@@ -105134,3 +105135,19 @@ date,state,daily
 2025-12-18,Wp Kuala Lumpur,7
 2025-12-18,Wp Labuan,0
 2025-12-18,Wp Putrajaya,0
+2025-12-19,Johor,0
+2025-12-19,Kedah,1
+2025-12-19,Kelantan,2
+2025-12-19,Melaka,1
+2025-12-19,Negeri Sembilan,1
+2025-12-19,Pahang,0
+2025-12-19,Perak,1
+2025-12-19,Perlis,0
+2025-12-19,Pulau Pinang,1
+2025-12-19,Sabah,1
+2025-12-19,Sarawak,0
+2025-12-19,Selangor,9
+2025-12-19,Terengganu,0
+2025-12-19,Wp Kuala Lumpur,3
+2025-12-19,Wp Labuan,0
+2025-12-19,Wp Putrajaya,0
