@@ -5008,7 +5008,7 @@ date,state,daily
 2022-09-29,Malaysia,162
 2022-09-30,Malaysia,404
 2022-10-01,Malaysia,1030
-2022-10-02,Malaysia,709
+2022-10-02,Malaysia,708
 2022-10-03,Malaysia,1396
 2022-10-04,Malaysia,1275
 2022-10-05,Malaysia,934
@@ -5796,7 +5796,7 @@ date,state,daily
 2024-11-25,Malaysia,22
 2024-11-26,Malaysia,50
 2024-11-27,Malaysia,43
-2024-11-28,Malaysia,238
+2024-11-28,Malaysia,237
 2024-11-29,Malaysia,458
 2024-11-30,Malaysia,161
 2024-12-01,Malaysia,220
@@ -5950,7 +5950,7 @@ date,state,daily
 2025-04-28,Malaysia,33
 2025-04-29,Malaysia,31
 2025-04-30,Malaysia,22
-2025-05-01,Malaysia,38
+2025-05-01,Malaysia,37
 2025-05-02,Malaysia,30
 2025-05-03,Malaysia,32
 2025-05-04,Malaysia,31
@@ -6257,6 +6257,7 @@ date,state,daily
 2026-03-01,Malaysia,20
 2026-03-02,Malaysia,18
 2026-03-03,Malaysia,24
+2026-03-04,Malaysia,39
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -86433,7 +86434,7 @@ date,state,daily
 2022-10-02,Pahang,10
 2022-10-02,Perak,57
 2022-10-02,Perlis,1
-2022-10-02,Pulau Pinang,47
+2022-10-02,Pulau Pinang,46
 2022-10-02,Sabah,25
 2022-10-02,Sarawak,32
 2022-10-02,Selangor,247
@@ -99044,7 +99045,7 @@ date,state,daily
 2024-11-28,Pulau Pinang,12
 2024-11-28,Sabah,10
 2024-11-28,Sarawak,7
-2024-11-28,Selangor,89
+2024-11-28,Selangor,88
 2024-11-28,Terengganu,4
 2024-11-28,Wp Kuala Lumpur,23
 2024-11-28,Wp Labuan,0
@@ -101500,7 +101501,7 @@ date,state,daily
 2025-05-01,Johor,2
 2025-05-01,Kedah,2
 2025-05-01,Kelantan,0
-2025-05-01,Melaka,1
+2025-05-01,Melaka,0
 2025-05-01,Negeri Sembilan,11
 2025-05-01,Pahang,2
 2025-05-01,Perak,1
@@ -106409,3 +106410,19 @@ date,state,daily
 2026-03-03,Wp Kuala Lumpur,3
 2026-03-03,Wp Labuan,0
 2026-03-03,Wp Putrajaya,0
+2026-03-04,Johor,1
+2026-03-04,Kedah,3
+2026-03-04,Kelantan,2
+2026-03-04,Melaka,1
+2026-03-04,Negeri Sembilan,3
+2026-03-04,Pahang,0
+2026-03-04,Perak,3
+2026-03-04,Perlis,0
+2026-03-04,Pulau Pinang,2
+2026-03-04,Sabah,3
+2026-03-04,Sarawak,1
+2026-03-04,Selangor,13
+2026-03-04,Terengganu,2
+2026-03-04,Wp Kuala Lumpur,5
+2026-03-04,Wp Labuan,0
+2026-03-04,Wp Putrajaya,0
