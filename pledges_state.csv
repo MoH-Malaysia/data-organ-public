@@ -4990,7 +4990,7 @@ date,state,daily
 2022-09-11,Malaysia,489
 2022-09-12,Malaysia,537
 2022-09-13,Malaysia,603
-2022-09-14,Malaysia,972
+2022-09-14,Malaysia,971
 2022-09-15,Malaysia,722
 2022-09-16,Malaysia,436
 2022-09-17,Malaysia,398
@@ -5206,7 +5206,7 @@ date,state,daily
 2023-04-15,Malaysia,255
 2023-04-16,Malaysia,129
 2023-04-17,Malaysia,171
-2023-04-18,Malaysia,94
+2023-04-18,Malaysia,93
 2023-04-19,Malaysia,80
 2023-04-20,Malaysia,96
 2023-04-21,Malaysia,67
@@ -6092,7 +6092,7 @@ date,state,daily
 2025-09-17,Malaysia,47
 2025-09-18,Malaysia,57
 2025-09-19,Malaysia,54
-2025-09-20,Malaysia,71
+2025-09-20,Malaysia,70
 2025-09-21,Malaysia,75
 2025-09-22,Malaysia,57
 2025-09-23,Malaysia,43
@@ -6269,6 +6269,7 @@ date,state,daily
 2026-03-13,Malaysia,34
 2026-03-14,Malaysia,29
 2026-03-15,Malaysia,36
+2026-03-16,Malaysia,31
 2009-01-14,Johor,0
 2009-01-14,Kedah,0
 2009-01-14,Kelantan,0
@@ -86152,7 +86153,7 @@ date,state,daily
 2022-09-14,Johor,96
 2022-09-14,Kedah,29
 2022-09-14,Kelantan,14
-2022-09-14,Melaka,20
+2022-09-14,Melaka,19
 2022-09-14,Negeri Sembilan,40
 2022-09-14,Pahang,20
 2022-09-14,Perak,65
@@ -89605,7 +89606,7 @@ date,state,daily
 2023-04-17,Wp Kuala Lumpur,30
 2023-04-17,Wp Labuan,0
 2023-04-17,Wp Putrajaya,2
-2023-04-18,Johor,12
+2023-04-18,Johor,11
 2023-04-18,Kedah,4
 2023-04-18,Kelantan,1
 2023-04-18,Melaka,4
@@ -103790,7 +103791,7 @@ date,state,daily
 2025-09-20,Perak,5
 2025-09-20,Perlis,0
 2025-09-20,Pulau Pinang,1
-2025-09-20,Sabah,10
+2025-09-20,Sabah,9
 2025-09-20,Sarawak,2
 2025-09-20,Selangor,13
 2025-09-20,Terengganu,2
@@ -106613,3 +106614,19 @@ date,state,daily
 2026-03-15,Wp Kuala Lumpur,2
 2026-03-15,Wp Labuan,0
 2026-03-15,Wp Putrajaya,0
+2026-03-16,Johor,4
+2026-03-16,Kedah,0
+2026-03-16,Kelantan,0
+2026-03-16,Melaka,1
+2026-03-16,Negeri Sembilan,6
+2026-03-16,Pahang,0
+2026-03-16,Perak,2
+2026-03-16,Perlis,0
+2026-03-16,Pulau Pinang,3
+2026-03-16,Sabah,0
+2026-03-16,Sarawak,1
+2026-03-16,Selangor,9
+2026-03-16,Terengganu,0
+2026-03-16,Wp Kuala Lumpur,5
+2026-03-16,Wp Labuan,0
+2026-03-16,Wp Putrajaya,0
